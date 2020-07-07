@@ -22,10 +22,11 @@
     <string name="desserts">Desserts</string>
     <string name="foodtypes_long">Select the category:</string>
     <string name="food_by_country">Food by country</string>
-    <string name="food_by_country_long">Select matching country:</string>
+    <string name="food_by_country_long">Select country of origin:</string>
     <string name="seafood">Seafood</string>
     <string name="pasta">Pasta</string>
     <string name="potato">Potato based</string>
+    <string name="corn">Corn based</string>
     <string name="vegetable">Vegetable based</string>
     <string name="rice">Rice based</string>
     <string name="vegan">Vegetarian</string>
