@@ -3,6 +3,7 @@ I'm not sure if I am even going to finish this project eventually. But I will ke
 ## FoodBook
 Allows for easy sharing of recipes with your family &amp; friends. 
 
-![](https://github.com/Stefangansevles/FoodBook/blob/master/example.png?raw=true)
+![](https://github.com/Stefangansevles/FoodBook/blob/master/example1.png?raw=true)
+![](https://github.com/Stefangansevles/FoodBook/blob/master/example2.png?raw=true)
 
 
