@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+
+    <item android:title="@string/food_by_country">
+        <menu>
+            <item
+                android:id="@+id/nav_dutch"
+                android:icon="@drawable/netherlands"
+                android:title="@string/dutch" />
+            <item
+                android:id="@+id/nav_belgium"
+                android:icon="@drawable/belgium"
+                android:title="@string/belgium" />
+            <item
+                android:id="@+id/nav_mexican"
+                android:icon="@drawable/mexico"
+                android:title="@string/mexican" />
+            <item
+                android:id="@+id/nav_italian"
+                android:icon="@drawable/italy"
+                android:title="@string/italian" />
+            <item
+                android:id="@+id/nav_uk"
+                android:icon="@drawable/uk"
+                android:title="@string/uk" />
+            <item
+                android:id="@+id/nav_usa"
+                android:icon="@drawable/usa"
+                android:title="@string/usa" />
+            <item
+                android:id="@+id/nav_france"
+                android:icon="@drawable/france"
+                android:title="@string/france" />
+            <item
+                android:id="@+id/nav_sweden"
+                android:icon="@drawable/sweden"
+                android:title="@string/sweden" />
+            <item
+                android:id="@+id/nav_chinese"
+                android:icon="@drawable/china"
+                android:title="@string/chinese" />
+            <item
+                android:id="@+id/nav_japanese"
+                android:icon="@drawable/japan"
+                android:title="@string/japanese" />
+            <item
+                android:id="@+id/nav_indian"
+                android:icon="@drawable/india"
+                android:title="@string/indian" />
+            <item
+                android:id="@+id/nav_indonesia"
+                android:icon="@drawable/indonesia"
+                android:title="@string/indonesia" />
+            <item
+                android:id="@+id/nav_spain"
+                android:icon="@drawable/spain"
+                android:title="@string/spain" />
+            <item
+                android:id="@+id/nav_thai"
+                android:icon="@drawable/thailand"
+                android:title="@string/thai" />
+            <item
+                android:id="@+id/nav_canada"
+                android:icon="@drawable/canada"
+                android:title="@string/canada" />
+            <item
+                android:id="@+id/nav_greek"
+                android:icon="@drawable/greece"
+                android:title="@string/greek" />
+            <item
+                android:id="@+id/nav_turkish"
+                android:icon="@drawable/turkey"
+                android:title="@string/turkish" />
+            <item
+                android:id="@+id/nav_country_other"
+                android:icon="@drawable/help"
+                android:title="@string/other" />
+        </menu>
+    </item>
+
+</menu>

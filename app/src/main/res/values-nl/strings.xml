@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">FoodBook</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Instellingen</string>
+    <string name="title_activity_main">FoodBook</string>
+
+    <!--navigation header strings-->
+    <string name="foodbook_motto">Gemakkelijk recepten delen</string>
+
+    <!--Activity header texts-->
+    <string name="activity_create_text">Nieuw recept</string>
+
+    <!--Food strings below-->
+    <string name="foodtypes">Soort gerecht</string>
+    <string name="meal">Maaltijd</string>
+    <string name="snack">Snacks</string>
+    <string name="cake">Cakes &amp; Taarten</string>
+    <string name="burger">Burgers</string>
+    <string name="desserts">Toetjes</string>
+    <string name="foodtypes_long">Selecteer het type gerecht:</string>
+    <string name="food_by_country">Landelijk</string>
+    <string name="food_by_country_long">Selecteer het bijhorende land:</string>
+    <string name="seafood">Vis gerechten</string>
+    <string name="pasta">Pasta</string>
+    <string name="potato">Aardappel basis</string>
+    <string name="vegetable">Groente basis</string>
+    <string name="rice">Rijst basis</string>
+    <string name="vegan">Vegetarisch</string>
+    <string name="pizza">Pizza\'s</string>
+    <string name="soup">Soepen</string>
+    <string name="drink">Dranken</string>
+    <string name="other">Overig</string>
+
+    <!--Food by country-->
+    <string name="mexican">Mexicaans</string>
+    <string name="italian">Italiaans</string>
+    <string name="indian">Indisch</string>
+    <string name="thai">Thais</string>
+    <string name="greek">Grieks</string>
+    <string name="chinese">Chinees</string>
+    <string name="japanese">Japans</string>
+    <string name="turkish">Turks</string>
+    <string name="dutch">Nederlands</string>
+
+    <string name="canada">Canadees</string>
+    <string name="spain">Spaans</string>
+    <string name="indonesia">Indonesisch</string>
+    <string name="sweden">Zweeds</string>
+    <string name="france">Frans</string>
+    <string name="usa">Amerikaans</string>
+    <string name="uk">Engels</string>
+    <string name="belgium">Belgisch</string>
+
+
+    <!--Create new recipe-->
+    <string name="recipe_name">Recept naam</string>
+    <string name="ingredients">Benoem hier de benodigde ingrediënten: </string>
+    <string name="kitchenware">Benodigde keuken apparaten: </string>
+    <!--Kitchen equipment-->
+    <string name="fryer">Frituurpan</string>
+    <string name="Oven">Oven</string>
+    <string name="pot">Hoge pan</string>
+    <string name="pan">Koekenpan</string>
+    <string name="microwave">Magnetron</string>
+    <string name="mixer">Mixer</string>
+    <string name="blender">Blender</string>
+
+    <string name="ingredients_example">300 gram rundergehakt\n250 gram spaghetti\néén pot AH BASIC pastasaus (520 gram)\n\n(Dit is een voorbeeld)</string>
+    <string name="step_example">Pak een pan en vul het met 500ml water. Zet het op het vuur en wacht totdat het kookt.\nSnijd 3 uien terwijl je aan het wachten bent\n\n(Dit is een voorbeeld)</string>
+    <string name="step_instruction">Beschrijf wat er hier gedaan moet worden.\nMaak een foto om het proces duidelijker te maken (Aanbevolen)</string>
+    <string name="no_selection">(geen)</string>
+    <string name="next_page">Volgende Stap</string>
+    <string name="step">Stap</string>
+    <string name="finish">Afronden</string>
+    <string name="complete">Voltooien</string>
+
+    <string name="persons_intended">Geschikt voor &#8230; personen</string>
+    <string name="time_required">Tijd(minuten) voor dit recept</string>
+    <string name="close_instruction">Verwijder deze instructie</string>
+
+    <string name="created">aangemaakt</string>
+
+
+    <!--Error messages below-->
+    <string name="err_no_recipe_name">Vul A.U.B een recept naam in!</string>
+    <string name="err_no_steps_on_finish">U heeft geen beschrijving of foto toegevoegd!</string>
+    <string name="err_no_duration_or_amount">Vul A.U.B de recept tijdsduur / Aantal personen in!</string>
+    <string name="err_default_message">Er is iets verkeerd gegaan.</string>
+
+    <!--Dialog options-->
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="confirm">Bevestig</string>
+    <string name="delete_instruction">Instructie verwijderen?</string>
+</resources>

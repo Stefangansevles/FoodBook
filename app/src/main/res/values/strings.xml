@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">FoodBook</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">FoodBook</string>
+
+    <!--navigation header strings-->
+    <string name="foodbook_motto">Makes sharing recipies easy</string>
+
+    <!--Activity header texts-->
+    <string name="activity_create_text">Create new</string>
+
+    <!--Food strings-->
+    <string name="foodtypes">Food type</string>
+    <string name="meal">Meal</string>
+    <string name="snack">Snacks</string>
+    <string name="cake">Cakes &amp; pies</string>
+    <string name="burger">Burgers</string>
+    <string name="desserts">Desserts</string>
+    <string name="foodtypes_long">Select the category:</string>
+    <string name="food_by_country">Food by country</string>
+    <string name="food_by_country_long">Select matching country:</string>
+    <string name="seafood">Seafood</string>
+    <string name="pasta">Pasta</string>
+    <string name="potato">Potato based</string>
+    <string name="vegetable">Vegetable based</string>
+    <string name="rice">Rice based</string>
+    <string name="vegan">Vegetarian</string>
+    <string name="pizza">Pizza\'s</string>
+    <string name="soup">Soup</string>
+    <string name="drink">Drinks</string>
+    <string name="other">Other</string>
+
+    <!--Food by country-->
+    <string name="mexican">Mexican</string>
+    <string name="italian">Italian</string>
+    <string name="indian">Indian</string>
+    <string name="thai">Thai</string>
+    <string name="greek">Greek</string>
+    <string name="chinese">Chinese</string>
+    <string name="japanese">Japanese</string>
+    <string name="turkish">Turkish</string>
+    <string name="dutch">Dutch</string>
+
+    <string name="canada">Canadian</string>
+    <string name="spain">Spanish</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="sweden">Swedish</string>
+    <string name="france">French</string>
+    <string name="usa">American</string>
+    <string name="uk">English</string>
+    <string name="belgium">Belgian</string>
+
+    <!--Create new recipe-->
+    <string name="recipe_name">Food name</string>
+    <string name="ingredients">Write the necessary ingredients here: </string>
+    <string name="kitchenware">Necessary kitchen equipment: </string>
+    <!--Kitchen equipment-->
+    <string name="fryer">Fryer</string>
+    <string name="Oven">Oven</string>
+    <string name="pot">Pot</string>
+    <string name="pan">Pan</string>
+    <string name="microwave">Microwave</string>
+    <string name="mixer">Mixer</string>
+    <string name="blender">Blender</string>
+
+    <string name="ingredients_example">500 grams of ground beef\n250 grams of spaghetti\nOne jar of \"Classico Pasta Sauce\" from Walmart\n\n(This is an example)</string>
+    <string name="step_example">Take a pan and fill it with 500ml of water. Put it on the fire and wait for it to boil.\nCut 3 onions while you wait for the water to boil\n\n(This is an example)</string>
+    <string name="step_instruction">Describe what the person has to do here.\nOptionally, Take a picture to substantiate the process</string>
+
+    <string name="no_selection">(none)</string>
+    <string name="next_page">Next Step</string>
+    <string name="step">Step</string>
+    <string name="finish">Finish</string>
+    <string name="complete">Complete</string>
+
+
+    <string name="persons_intended">Intended for &#8230; people</string>
+    <string name="time_required">Time(minutes) to make this meal</string>
+    <string name="close_instruction">Delete this instruction</string>
+
+    <string name="created">created</string>
+
+    <!--Error messages below-->
+    <string name="err_no_recipe_name">Please enter a food name!</string>
+    <string name="err_no_steps_on_finish">You haven\'t added any images/instructions!</string>
+    <string name="err_no_duration_or_amount">Please enter the time required / Amount of people!</string>
+    <string name="err_default_message">Something has gone wrong.</string>
+
+    <!--Dialog options-->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete_instruction">Delete instruction?</string>
+</resources>

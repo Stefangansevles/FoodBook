@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <!--This is the side bar containing the food types-->
+    <item android:title="@string/foodtypes">
+        <menu>
+            <item
+                android:id="@+id/nav_pasta"
+                android:icon="@drawable/pasta"
+                android:title="@string/pasta" />
+            <item
+                android:id="@+id/nav_potato"
+                android:icon="@drawable/potato"
+                android:title="@string/potato" />
+            <item
+                android:id="@+id/nav_rice"
+                android:icon="@drawable/rice"
+                android:title="@string/rice" />
+            <item
+                android:id="@+id/nav_vegetables"
+                android:icon="@drawable/broccoli"
+                android:title="@string/vegetable" />
+            <item
+                android:id="@+id/nav_fish"
+                android:icon="@drawable/fish"
+                android:title="@string/seafood" />
+            <item
+                android:id="@+id/nav_pizza"
+                android:icon="@drawable/pizza"
+                android:title="@string/pizza" />
+            <item
+                android:id="@+id/nav_soup"
+                android:icon="@drawable/bowl_gray"
+                android:title="@string/soup" />
+            <item
+                android:id="@+id/nav_drinks"
+                android:icon="@drawable/drink"
+                android:title="@string/drink" />
+            <item
+                android:id="@+id/nav_vegan"
+                android:icon="@drawable/vegan"
+                android:title="@string/vegan" />
+            <item
+                android:id="@+id/nav_snack"
+                android:icon="@drawable/nacho"
+                android:title="@string/snack" />
+            <item
+                android:id="@+id/nav_cake"
+                android:icon="@drawable/pie"
+                android:title="@string/cake" />
+            <item
+                android:id="@+id/nav_burgers"
+                android:icon="@drawable/hamburger"
+                android:title="@string/burger" />
+            <item
+                android:id="@+id/nav_deserts"
+                android:icon="@drawable/icecream"
+                android:title="@string/desserts" />
+            <item
+                android:id="@+id/nav_other"
+                android:icon="@drawable/help"
+                android:title="@string/other" />
+
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
